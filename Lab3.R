@@ -1,5 +1,7 @@
 #Sam Perng
-#GEOG 317 Lab03 Inclass Demo
+#GEOG 317 Lab03 
+#Spokane County
+
 
 
 act_csv <- read.csv("data/1_InClassAct_Data.csv")
